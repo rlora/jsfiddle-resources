@@ -1,0 +1,22 @@
+body {
+    background-color: white;
+}
+div.a {
+    width: 150px; 
+    height: 150px; 
+    border: 5px solid black;
+    background-color: #ccc;
+    padding: 20px;
+    margin: 25px;
+}
+div.b {
+    height: 100%;
+    background-color: white;
+}
+
+.b p {
+    margin: 0;
+    padding: 0;
+    text-align: center;
+    font-family: sans-serif; 
+}
